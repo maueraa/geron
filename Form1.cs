@@ -5,6 +5,8 @@ namespace GeronFormulasi
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine ("Salom domla charchamayabsizmi !!!");
+    
         }
     }
 }
