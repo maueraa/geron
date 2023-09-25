@@ -11,9 +11,9 @@ namespace GeronFormulasi
 
         private void button1_Click(object sender, EventArgs e)
         {
-             label1.text="Salom talabalar";
+             label1.Text="Salom talabalar";
 
-             label1.text="Rahmat domla siz charchamadizmi";
+             label1.Text="Rahmat domla siz charchamadizmi";
         }
     }
 }
