@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# dasturlari\\GeronFormulasi\\GeronFormulasi.csproj": {}
+    "C:\\CSharpProgs\\GeronFormulasi\\GeronFormulasi.csproj": {}
   },
   "projects": {
-    "D:\\C# dasturlari\\GeronFormulasi\\GeronFormulasi.csproj": {
+    "C:\\CSharpProgs\\GeronFormulasi\\GeronFormulasi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# dasturlari\\GeronFormulasi\\GeronFormulasi.csproj",
+        "projectUniqueName": "C:\\CSharpProgs\\GeronFormulasi\\GeronFormulasi.csproj",
         "projectName": "GeronFormulasi",
-        "projectPath": "D:\\C# dasturlari\\GeronFormulasi\\GeronFormulasi.csproj",
+        "projectPath": "C:\\CSharpProgs\\GeronFormulasi\\GeronFormulasi.csproj",
         "packagesPath": "C:\\Users\\Murodjon\\.nuget\\packages\\",
-        "outputPath": "D:\\C# dasturlari\\GeronFormulasi\\obj\\",
+        "outputPath": "C:\\CSharpProgs\\GeronFormulasi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
