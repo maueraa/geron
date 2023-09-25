@@ -13,7 +13,7 @@ namespace GeronFormulasi
         {
              label1.Text="Salom talabalar";
 
-             label1.Text="Rahmat domla siz charchamadizmi";
+             label2.Text="Rahmat domla siz charchamadizmi";
         }
     }
 }
