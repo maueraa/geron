@@ -1,0 +1,17 @@
+C:\CSharpProgs\GeronFormulasi\bin\Debug\net6.0-windows\GeronFormulasi.exe
+C:\CSharpProgs\GeronFormulasi\bin\Debug\net6.0-windows\GeronFormulasi.deps.json
+C:\CSharpProgs\GeronFormulasi\bin\Debug\net6.0-windows\GeronFormulasi.runtimeconfig.json
+C:\CSharpProgs\GeronFormulasi\bin\Debug\net6.0-windows\GeronFormulasi.dll
+C:\CSharpProgs\GeronFormulasi\bin\Debug\net6.0-windows\GeronFormulasi.pdb
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.csproj.AssemblyReference.cache
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.Form1.resources
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.csproj.GenerateResource.cache
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.AssemblyInfoInputs.cache
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.AssemblyInfo.cs
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.csproj.CoreCompileInputs.cache
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.dll
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\refint\GeronFormulasi.dll
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.pdb
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\GeronFormulasi.genruntimeconfig.cache
+C:\CSharpProgs\GeronFormulasi\obj\Debug\net6.0-windows\ref\GeronFormulasi.dll

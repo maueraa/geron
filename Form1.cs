@@ -8,5 +8,10 @@ namespace GeronFormulasi
             Console.WriteLine ("Salom domla charchamayabsizmi !!!");
     
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
